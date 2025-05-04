@@ -20,7 +20,7 @@ O projeto inclui análise exploratória detalhada, comparação entre diversos m
 
 - **Ambiente:** Python + Google Colab  
 - **Manipulação e análise de dados:** Pandas, NumPy  
-- **Visualização:** Matplotlib, Seaborn, Plotly  
+- **Visualização:** Matplotlib, Seaborn
 - **Modelagem estatística e machine learning:**  
   - Regressão Logística, LDA, KNN, SVM  
   - Random Forest, XGBoost, LightGBM  
