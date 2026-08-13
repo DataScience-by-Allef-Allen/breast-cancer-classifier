@@ -1,8 +1,6 @@
 # 🎗️ Breast Cancer Classifier
 
-Este projeto tem como objetivo desenvolver, em caráter **acadêmico e experimental**, um modelo de aprendizado de máquina para estudar a classificação de tumores de mama como **malignos** ou **benignos**, com base em atributos extraídos de exames clínicos. Utilizando o conjunto de dados **Wisconsin Breast Cancer Dataset (WBCD)**, o projeto busca explorar a aplicação de técnicas de aprendizado de máquina e análise estatística no contexto de classificação de dados. Os resultados obtidos possuem **finalidade exclusivamente educacional e experimental**, não constituindo uma ferramenta de diagnóstico médico ou um sistema destinado à utilização em situações clínicas reais.
-
-O projeto inclui análise exploratória detalhada, comparação entre diversos modelos, otimizações de hiperparâmetros e deploy interativo — tudo implementado no ambiente do Google Colab, com foco em reprodutibilidade e clareza de apresentação.
+Este projeto consiste em um estudo acadêmico e experimental sobre a aplicação de técnicas de aprendizado de máquina na classificação de tumores de mama como malignos ou benignos, com base em atributos extraídos de exames clínicos. Utilizando o conjunto de dados Wisconsin Breast Cancer Dataset (WBCD), o projeto explora técnicas de aprendizado de máquina e análise estatística para a classificação dos dados e avaliação do desempenho dos modelos. Os resultados obtidos possuem finalidade exclusivamente educacional e experimental, não constituindo uma ferramenta de diagnóstico médico ou um sistema destinado à utilização em situações clínicas reais.
 
 ## 📊 Sobre
 
